@@ -1,0 +1,36 @@
+
+html body{
+    background-color: #282a36;
+    color:#f8f8f2;
+}
+
+li > a{
+    color:#8be9fd;
+}
+
+.dr-cyan{
+    color:#8be9fd;
+}
+
+.dr-green{
+    color:#50fa7b;
+}
+.dr-orange{
+    color:#ffb86c;
+}
+.dr-pink{
+    color:#ff79c6;
+}
+.dr-purple{
+    color:#bd93f9;
+}
+.dr-red{
+    color:#ff5555;
+}
+.dr-yellow{
+    color:#f1fa8c;
+}
+
+.tabela{
+    outline: 1px solid #8be9fd	;;
+}
